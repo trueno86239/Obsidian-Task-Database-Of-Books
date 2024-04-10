@@ -36,7 +36,7 @@ Výstupem úkolu bude textový soubor, který bude obsahovat odpovědi na zadan�
 
 
 
-**Odpovědi:****
+**Odpovědi:**
 
 
 1. V databázi je 3 knihy.
